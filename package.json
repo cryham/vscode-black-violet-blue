@@ -24,7 +24,7 @@
 		"violet",
 		"blue"
 	],
-	"homepage": "https://github.com/atishay/vscode-allautocomplete",
+	"homepage": "http://cryham.tuxfamily.org/themes/",
     "contributes": {
         "themes": [
             {

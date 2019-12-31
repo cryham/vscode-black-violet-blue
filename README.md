@@ -8,4 +8,4 @@ More themes like this for other programs on [my website](http://cryham.tuxfamily
 
 ## Screenshot
 
-![](https://raw.githubusercontent.com/cryham/black-violet-blue/master/images/screenshot.png)
+![](https://raw.githubusercontent.com/cryham/vscode-black-violet-blue/master/images/screenshot.png)
