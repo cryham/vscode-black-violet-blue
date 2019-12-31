@@ -1,0 +1,37 @@
+{
+    "name": "black-violet-blue",
+    "displayName": "Black Violet Blue",
+    "description": "Black Violet SkyBlue color theme for VSCode / VSCodium.",
+	"author": "Crystal Hammer",
+    "publisher": "cryham",
+    "icon": "images/icon.png",
+    "version": "1.0.1",
+	"license": "GPL-3.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cryham/vscode-black-violet-blue"
+    },
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+	"keywords": [
+		"black",
+		"dark",
+		"theme",
+		"violet",
+		"blue"
+	],
+	"homepage": "https://github.com/atishay/vscode-allautocomplete",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Black Violet Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Black-Violet-Blue.json"
+            }
+        ]
+    }
+}
