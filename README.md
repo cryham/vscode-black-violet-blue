@@ -4,6 +4,10 @@ Dark toned theme for VS Code / VSCodium.
 
 Uses colors: black, violet, indigo, skyblue, cyan.
 
+Works well with languages: bash, C, C++, C#, CSS, HTML, Java, JS, JSON, PHP, Python, shell, XML. Maybe more.
+
+For C++ it has extended syntax coloring, different colors for: field, global, local and parameter variables.
+
 More themes like this for other programs on [my website](http://cryham.tuxfamily.org/themes/).
 
 ## How to use
